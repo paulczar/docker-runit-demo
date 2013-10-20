@@ -1,0 +1,3 @@
+#!/bin/sh
+exec 2>&1
+exec java -jar /opt/logstash/bin/logstash.jar agent -f /opt/logstash/conf.d

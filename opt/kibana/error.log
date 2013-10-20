@@ -1,0 +1,4 @@
+2013/10/20 20:31:30 [error] 16#0: *1 directory index of "/opt/kibana/" is forbidden, client: 172.17.42.1, server: kibana, request: "GET / HTTP/1.1", host: "localhost:8080"
+2013/10/20 20:38:28 [error] 148#0: *2 open() "/opt/kibana/html/favicon.ico" failed (2: No such file or directory), client: 172.17.42.1, server: kibana, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2013/10/20 20:38:28 [error] 148#0: *2 open() "/opt/kibana/html/favicon.ico" failed (2: No such file or directory), client: 172.17.42.1, server: kibana, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2013/10/20 20:38:29 [error] 148#0: *2 open() "/opt/kibana/html/favicon.ico" failed (2: No such file or directory), client: 172.17.42.1, server: kibana, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
